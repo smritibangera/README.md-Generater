@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: readme_generator
+Version: 0.1
+Requires-Dist: click
+Requires-Dist: rich
+Requires-Dist: validators
